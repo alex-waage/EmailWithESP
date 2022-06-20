@@ -1,0 +1,1 @@
+## Universal code to send email via ESP for any project
